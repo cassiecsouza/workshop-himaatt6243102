@@ -1,5 +1,5 @@
 {
-  "harness_service": "Kubernetes",
-  "image_tag": "himaatt6243102-3",
-  "username": "himaatt6243102"
+  "harness_service" : "Kubernetes",
+  "image_tag" : "himaatt6243102-4",
+  "username" : "himaatt6243102"
 }
